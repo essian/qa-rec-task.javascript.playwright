@@ -22,7 +22,7 @@ node version (`v14.18.1`)
 npm version (`v6.14.15`)
 
 1. `npm install`
-1. `npm test`
+1. `npx playwright test` or `npm test`
 
 ## On Completion
 - Fork and push your changes, then notify the hiring manager   
