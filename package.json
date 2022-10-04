@@ -1,16 +1,21 @@
 {
-  "name": "javascript",
+  "name": "qa-rec-task.javascript.playwright",
   "version": "1.0.0",
-  "description": "",
+  "description": "Carer jobs are constantly being added to our website. Using https://www.ceracare.co.uk/ (live website, don't bring it down please) complete the tasks below.",
   "main": "index.js",
-  "scripts": {
-    "cypress:open": "cypress open",
-    "cypress:run": "cypress run",
-    "test": "npm run cypress:open"
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceracare/qa-rec-task.cypress.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "cypress": "7.3.0"
+  "bugs": {
+    "url": "https://github.com/ceracare/qa-rec-task.cypress/issues"
+  },
+  "homepage": "https://github.com/ceracare/qa-rec-task.cypress#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.26.1"
   }
 }

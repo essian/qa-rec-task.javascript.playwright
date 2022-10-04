@@ -5,7 +5,7 @@ Carer jobs are constantly being added to our website. Using https://www.ceracare
 
 ## Task 1
 We are going to push changes to the search infrastructure, the functionality should stay the same. In order to ensure we have delivered quality, reliable and stable software what approach should we take?
-1. Add a TEST-PLAN.md explaining your test approach for this task, including different levels & types of test
+1. Add a TEST-APPROACH.md explaining your test approach for this task, including different levels & types of test
 
 ## Task 2
 1. Fix the broken test
@@ -18,8 +18,8 @@ We are going to push changes to the search infrastructure, the functionality sho
 1. Don't spend too long on it (2 hours max)
 
 ## Setup
-node version (`v14.16.1`)    
-npm version (`6.14.12`)
+node version (`v14.18.1`)    
+npm version (`v6.14.15`)
 
 1. `npm install`
 1. `npm test`
